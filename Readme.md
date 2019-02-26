@@ -2,13 +2,13 @@
 > Hao Jiang			~ 02/25/2019 ~
 
 ##### Table of Contents
-[CAD Breast / Mammogram related talks](#cad)
-[Segmentation](#segmentation)  
-[Keynote Speeches](#keynote)
-[Detector / Physics](#detector)
-[AI / Deep Learning / Machine Learning](#ai)
-[Misc.](#misc)
-[Posters](#posters)
+- [CAD Breast / Mammogram related talks](#cad)
+- [Segmentation](#segmentation)  
+- [Keynote Speeches](#keynote)
+- [Detector / Physics](#detector)
+- [AI / Deep Learning / Machine Learning](#ai)
+- [Misc.](#misc)
+- [Posters](#posters)
 
 ## CAD
 
