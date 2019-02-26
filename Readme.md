@@ -409,7 +409,7 @@ Posterior Net
 ### Has deep learning basically solved CAD?
 - DL for detection / segmentation
 
-## Detector / Physics
+## Detector
 ### Comparison of CMOS and amorphous silicon detectors: determining the correct selection criteria to optimize system performance for typical imaging tasks 
 ![](spie/47.PNG)
 ![](spie/48.PNG)
