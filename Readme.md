@@ -1,8 +1,17 @@
 # SPIE 2019 Medical Imaging Report
-> Hao Jiang			02/25/2019
+> Hao Jiang			~ 02/25/2019 ~
 
-[TOC]
+##### Table of Contents
+[CAD Breast / Mammogram related talks](#cad breast / mammogram related talks)
+[Segmentation](#segmentation)  
+[Keynote Speeches](#keynote speeches)
+[Detector / Physics](#detector / physics)
+[AI / Deep Learning / Machine Learning](#aiI / deep learning / machine learning)
+[Misc.](#misc.)
+[Poster](#poster)
+
 ## CAD Breast / Mammogram related talks
+
 ### **Vendor-independent soft tissue lesion detection using weakly supervised and unsupervised adversarial domain adaptation** 
 - This work is an Adversarial Domain adaptation for soft tissue lesion detection
 - Current soft lesion detection network limitations:
