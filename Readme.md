@@ -2,15 +2,15 @@
 > Hao Jiang			~ 02/25/2019 ~
 
 ##### Table of Contents
-[CAD Breast / Mammogram related talks](#cad breast / mammogram related talks)
+[CAD Breast / Mammogram related talks](#cad for breast)
 [Segmentation](#segmentation)  
 [Keynote Speeches](#keynote speeches)
 [Detector / Physics](#detector / physics)
 [AI / Deep Learning / Machine Learning](#aiI / deep learning / machine learning)
 [Misc.](#misc.)
-[Poster](#poster)
+[Posters](#posters)
 
-## CAD Breast / Mammogram related talks
+## CAD for Breast
 
 ### **Vendor-independent soft tissue lesion detection using weakly supervised and unsupervised adversarial domain adaptation** 
 - This work is an Adversarial Domain adaptation for soft tissue lesion detection
