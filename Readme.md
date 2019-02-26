@@ -32,7 +32,7 @@
         - classifier 
     - Domain distriminator
 - Adversarial disctriminative DA
-![](1.PNG)
+![](1.png)
     - Source CNN / Target CNN Discriminator -> domain label
     - Testing
 - RevGrad
@@ -193,7 +193,7 @@
     - Manual delineation
         - Consuming labor
     - PET / CT
-![](15.PNG)
+![](15.png)
 - Multi-modality
 ![](16.PNG)
 - 3D U-Net
