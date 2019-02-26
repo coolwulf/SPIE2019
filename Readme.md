@@ -2,15 +2,15 @@
 > Hao Jiang			~ 02/25/2019 ~
 
 ##### Table of Contents
-[CAD Breast / Mammogram related talks](#cad for breast)
+[CAD Breast / Mammogram related talks](#cad)
 [Segmentation](#segmentation)  
-[Keynote Speeches](#keynote speeches)
-[Detector / Physics](#detector / physics)
-[AI / Deep Learning / Machine Learning](#aiI / deep learning / machine learning)
-[Misc.](#misc.)
+[Keynote Speeches](#keynote)
+[Detector / Physics](#detector)
+[AI / Deep Learning / Machine Learning](#ai)
+[Misc.](#misc)
 [Posters](#posters)
 
-## CAD for Breast
+## CAD
 
 ### **Vendor-independent soft tissue lesion detection using weakly supervised and unsupervised adversarial domain adaptation** 
 - This work is an Adversarial Domain adaptation for soft tissue lesion detection
@@ -301,7 +301,7 @@
 ![](spie/29.PNG)
 ![](spie/30.PNG)
 
-## Keynote Speeches
+## Keynote
 ### AI research and applications in radiology: experience in China 
 - Therapeutical evaluation
 - Disease detection
@@ -618,7 +618,7 @@ Posterior Net
 
 ### Experimental study of neural network material decomposition to account for pulse-pileup effects in photon-counting spectral CT
 
-## AI / Deep Learning / Machine Learning
+## AI
 ### Identifying disease-free chest x-ray images with deep transfer learning 
 - datasets: 
     - NIH chestX0ray14
@@ -721,7 +721,7 @@ Posterior Net
 ### Two-level training of a 3D U-Net for accurate segmentation of the intra-cochlear anatomy in head CT with limited ground truth training data 
 - Condition GAN to add restraint / robutness of the model
 
-## Misc.
+## Misc
 ![](spie/202.PNG)
 ![](spie/203.PNG)
 ![](spie/204.PNG)
